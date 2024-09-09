@@ -12,7 +12,7 @@ Fue parte de una POC que hice para mi proyecto final de la carrera Ingeniería e
 - **Poetry**: Manejo de dependencias y gestión del entorno virtual.
 - **.env**: Manejo de variables de entorno para credenciales y configuraciones.
 
-## Instalación 👈
+## Instalación 💻
 
 1. **Clona este repositorio** 👈
 
