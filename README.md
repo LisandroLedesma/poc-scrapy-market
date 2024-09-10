@@ -32,7 +32,6 @@ Fue parte de una POC que hice para mi proyecto final de la carrera Ingeniería e
     ```bash
     LOGIN_EMAIL=tu_email
     LOGIN_PASSWORD=tu_contraseña
-    BRANCHES=["Ruta 20", "Otra Sucursal", "Tercera Sucursal"]
     ```
 
 ## Uso
